@@ -5,7 +5,7 @@ document.querySelector(".check").onclick = function () {
 };
 document.querySelector(".check1").onclick = function () {
     let num3 = parseInt(document.querySelector(".num3").value)
-    alert('Площадь равна ' + (num3 * num3) * 3.14)
+    alert('Площадь равна ' + (num3 * num3) * Math.PI)
 };
 document.querySelector(".check2").onclick = function () {
     let num4 = parseInt(document.querySelector(".num4").value)
