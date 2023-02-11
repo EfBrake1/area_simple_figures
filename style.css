@@ -1,3 +1,25 @@
 div{
     margin-top: 20px;
 }
+body{
+    background-color: blue;
+    color: white;
+}
+input{
+    background-color: cyan;
+    border: none;
+    color: violet;
+}
+button{
+    background-color: aquamarine;
+    border-radius: 20px;
+    color: darkviolet;
+    font-size: 15px;
+    border: 1 solid black;
+}
+a{
+    color: yellow;
+}
+.asd{
+    margin-top: 200px;
+}
